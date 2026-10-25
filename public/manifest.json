@@ -1,0 +1,17 @@
+{
+  "name": "AURELLE",
+  "short_name": "AURELLE",
+  "description": "Make space for your best self. Personal productivity, habits, and focus.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAF7",
+  "theme_color": "#78B9E8",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
